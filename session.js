@@ -41,7 +41,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~2dcDDbTT#FHhdRbl2cwLNfiQgYEzm0UjfLm4WkPU1qMO8COt6Tqo",
-SUDO: process.env.SUDO || ["94717775628","94758775628"],
+SUDO: process.env.SUDO || ["94771098429","94742609756"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "> QUEEN ANJU XPRO\n> Developed by Mr. Rashmika\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN ANJU XPRO. All rights reserved.",
+FOOTER: process.env.FOOTER || "> POWERED BY KING CINEMA\n> SRILANKA NO1 MOVIE FAMILY.",
 };
